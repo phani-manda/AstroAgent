@@ -1,0 +1,9 @@
+chore: commit evaluation results and update gitignore
+
+Include latest evaluation artifacts:
+- results/20260529_2320.csv: per-case 32-row results
+- results/20260529_2320_scorecard.md: 88% pass rate summary
+
+Update .gitignore to allow specific result files while excluding future runs.
+
+Co-authored-by: CommandCodeBot <noreply@commandcode.ai>

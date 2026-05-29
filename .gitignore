@@ -31,8 +31,9 @@ Thumbs.db
 backend/data/
 backend/logs/
 logs/
-results/*.csv
-results/*_scorecard.md
+results/*
+!results/20260529_2320.csv
+!results/20260529_2320_scorecard.md
 
 # Temp
 *.pid
